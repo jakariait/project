@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Mazda Mazda 3 2021 15S 100th Anniversary",
+        "type": "Sedan",
+        "price": "5001",
+        "image": "https:\/\/cardealerbd.com\/ProductPhotos\/PRD000000000188_1.jpeg?v=31102023065905"
+    },
+    {
+        "name": "Mazda Mazda 3 2020 15S 100th Anniversary",
+        "type": "Recondition",
+        "price": "100000",
+        "image": "https:\/\/cardealerbd.com\/ProductPhotos\/PRD000000000193_1.JPG?v=31032024044405"
+    },
+    {
+        "name": "Hyundai Creta",
+        "type": "SUV",
+        "price": "100000",
+        "image": "https:\/\/stimg.cardekho.com\/images\/carexteriorimages\/630x420\/Hyundai\/Creta\/8667\/1705465218824\/front-left-side-47.jpg?tr=w-664"
+    },
+    {
+        "name": "Mahindra Scorpio N",
+        "type": "SUV",
+        "price": "22333333",
+        "image": "https:\/\/stimg.cardekho.com\/images\/carexteriorimages\/630x420\/Mahindra\/Scorpio-N\/10817\/1690351800434\/front-left-side-47.jpg?tr=w-664"
+    }
+]
